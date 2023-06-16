@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Hello! 
+
+I'm Noam Teyssier, a Bioinformatics PhD Candidate in the [Kampmann Lab](https://kampmannlab.ucsf.edu/) and [Goodarzi Lab](https://goodarzilab.ucsf.edu/) at UCSF.
+
+I work at the intersection of functional genomics, machine learning, dynamical modeling, and systems biology in the context of neurodegenerative diseases.
+
+I highly value open source and try to share all the tools I've developed during my own research.
 
 <!--
 **noamteyssier/noamteyssier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
