@@ -1,7 +1,9 @@
 
 # Hello! 
 
-I'm Noam Teyssier, a Bioinformatics PhD Candidate in the [Kampmann Lab](https://kampmannlab.ucsf.edu/) and [Goodarzi Lab](https://goodarzilab.ucsf.edu/) at UCSF.
+I'm Noam Teyssier, a Bioinformatics Scientist at the [Arc Institute](https://arcinstitute.org/)
+
+I previously received my PhD in the [Kampmann Lab](https://kampmannlab.ucsf.edu/) and [Goodarzi Lab](https://goodarzilab.ucsf.edu/) at UCSF.
 
 I work at the intersection of functional genomics, machine learning, dynamical modeling, and systems biology in the context of neurodegenerative diseases.
 
