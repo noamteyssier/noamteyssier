@@ -1,24 +1,11 @@
 
 # Hello! 
 
-I'm Noam Teyssier, a Bioinformatics Scientist at the [Arc Institute](https://arcinstitute.org/)
+I'm Noam Teyssier, a Senior Computational Biologist at [insitro](https://insitro.com).
 
-I work at the intersection of functional genomics, machine learning, and gene regulatory networks. 
+I was formally a Bioinformatics Scientist at the [Arc Institute](https://arcinstitute.org/) and initially did my PhD in the [Kampmann Lab](https://kampmannlab.ucsf.edu/) at UCSF.
+
+I work at the intersection of functional genomics, machine learning, and gene regulation in the context of neurodegeneration. 
 I also build rusty bioinformatics tools.
 
-I'm an advocate for open source and freely share all the [tools I've developed](https://noamteyssier.github.io/tools/) during my own research.
-
-<!--
-**noamteyssier/noamteyssier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an advocate for open source and share all the [tools I've developed](https://noamteyssier.github.io/tools/) during my personal research.
